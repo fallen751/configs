@@ -1,1 +1,0 @@
-/usr2/wils/.vimrc
